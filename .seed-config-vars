@@ -1,0 +1,5 @@
+# Set these env vars
+DJANGO_SETTINGS_MODULE=config.settings.dev
+SEED_DBUSER=set-this
+SEED_DEFAULTUSER_PASS=set-this
+SEED_DEFAULTUSER=demo@example.com

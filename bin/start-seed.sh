@@ -1,7 +1,5 @@
 #!/bin/bash
 # Start SEED in developer mode
-
-export DJANGO_SETTINGS_MODULE=config.settings.dev
 cd ~/seed
 
 # check if "$prog" is running
